@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://sporelifesciences.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://sporelifesciences.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://sporelifesciences.com/collections/all.atom"/>
+  <title>Spore Life Sciences</title>
+  <updated>2021-02-17T02:14:23-05:00</updated>
+  <author>
+    <name>Spore Life Sciences</name>
+  </author>
+  <entry>
+    <id>https://sporelifesciences.com/products/6166999203990</id>
+    <published>2021-02-17T02:14:23-05:00</published>
+    <updated>2021-02-17T02:14:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/ultimate-wellness-bundle-p-d"/>
+    <title>Ultimate Wellness Bundle</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life Sciences</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/arti9_ctaImg2.jpg?v=1613546254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life Sciences<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            199.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Try every custom functional mushroom blends that Spore has to offer for the ultimate wellness experience.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6166999203990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.80</s:price>
+      <s:sku>1234</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6154039984278</id>
+    <published>2021-02-12T17:39:07-05:00</published>
+    <updated>2021-02-12T17:39:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/ultimate-wellness-bundle"/>
+    <title>Ultimate Wellness Bundle</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life Sciences</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/arti9_ctaImg4.jpg?v=1613169530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life Sciences<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            199.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Try every custom functional mushroom blends that Spore has to offer for the ultimate wellness experience.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6154039984278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.80</s:price>
+      <s:sku>1234</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6127530344598</id>
+    <published>2021-02-02T21:05:25-05:00</published>
+    <updated>2021-02-02T21:05:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/protect-defend-pck"/>
+    <title>Protect + Defend PCK</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/protect-new_69239b0b-0538-45a1-b86e-ca6cb352fa12.jpg?v=1612317930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Consider this a bodyguard for your immune system.</strong> Our bodies are under constant threat from viruses, bacteria, and pathogens looking to infect our cells and wreak havoc. There’s no better way to stop them in their tracks than by fortifying your body’s natural defense system. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">PROTECT + DEFEND is an adaptogenic blend of Turkey Tail, Chaga, Reishi, and Maitake mushrooms designed for supercharged immune function and longevity. Its robust profile of antioxidants, vitamins, and minerals will support your overall health and keep your body’s defense operating at its full capacity. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>You may not live for 1,000 years, but you can certainly thrive for 100. Keep yourself protected every day with this potent defensive blend.   </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6127530344598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000.00</s:price>
+      <s:sku>5DD-PROTECT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6127528870038</id>
+    <published>2021-02-02T21:04:41-05:00</published>
+    <updated>2021-02-02T21:04:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/mikes-mushroom-mix-pck"/>
+    <title>Mike&apos;s Mushroom Mix PCK</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/mikes-new_7f3e66a8-f16b-4c7b-9ebb-9a59c985d266.jpg?v=1612317886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>The one that started it all.</strong> Mike’s signature blend brings together ten of the most renowned functional mushrooms into an all-around daily supplement. This formula contains a diverse and robust nutrient profile to maintain balance and harmony in all of your systems within your body. If you’re interested in using functional mushrooms to support your overall health and wellness, this is the supplement for you. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">It’s a potent anti-inflammatory, anti-viral, and immunity booster that’ll keep harmful pathogens in check and keep your body in an optimal state of balance. Our co-founder Mike spent years finding the right mushroom blend for total body health. Then we combined that research with the highest quality mushroom ingredients on the planet to bring you this unique, comprehensive formula. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>Keep your body optimized, healthy, and vibrant with Mike’s powerful everyday blend.  </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6127528870038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>1DD-MIKE</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6127527788694</id>
+    <published>2021-02-02T21:04:09-05:00</published>
+    <updated>2021-02-02T21:04:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/focus-performance-pck"/>
+    <title>Focus Performance PCK</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/focus-new_99ca240c-86bf-4392-aae0-3bea31d5b5eb.jpg?v=1612317853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>The brain fuel you need to perform at your best.</strong> This blend combines the cognitive boosting power of Lion’s Mane with sustained energy from Cordyceps to help you unlock your peak mental performance each day. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">The functional mushrooms in FOCUS PERFORMANCE are supported by Ashwagandha and Ginkgo Biloba to provide increased cognitive enhancement and a mood-stabilizing effect. The result is improved working memory, expanded creativity, and complete support for your brain’s neurological functioning. On top of all that, Lion’s Mane has proven neuroprotective benefits. Your mind will thank you later… </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>Put your head down, get into that elusive flow state (aka “the zone”), and get sh*t done.   </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6127527788694</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>3DD-FOCUS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6127527166102</id>
+    <published>2021-02-02T21:03:44-05:00</published>
+    <updated>2021-02-02T21:03:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/energy-performance-pck"/>
+    <title>Energy Performance PCK</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/energy-new_3adb9345-9129-4a1c-9db0-ddc216e8aff8.jpg?v=1612317831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Need to smash that tough deadline at work? Crush that exam? Hit a new PR at the gym?</strong> This energy blend combines the power of functional mushrooms with natural energy enhancers to keep you running at peak performance –– even on your toughest days. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">This potent formula is centered around the Cordyceps mushroom, which has a history that spans millennia across ancient Chinese and Tibetan cultures. Cordyceps is revered as a treatment for many illnesses, along with providing a substantial energy boost for people trekking through the Himalayas. With its scientifically proven ability to help the lungs absorb oxygen more efficiently at the cellular level, this potent mushroom will provide you with increased endurance and energy whenever you need it.    </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6127527166102</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>4DD-ENERGY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6127526609046</id>
+    <published>2021-02-02T21:03:15-05:00</published>
+    <updated>2021-02-02T21:03:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/chill-out-pck"/>
+    <title>Chill Out PCK</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/relax-new_91107105-18b7-4b5d-ba22-47ba8b040e5f.jpg?v=1612317799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Are you looking to take the edge off at the end of a long day?</strong> This calming, anti-stress blend provides exactly what your body and mind needs to slip into that sweet relaxation at the end of the day. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">Reishi –– the Mushroom of Immortality –– is typically used as an adaptogen to help the body process stress and is at the core of this powerful formula. The result is a calming effect that, when combined with potent natural herbs like Chamomile, Lemon Balm, Valerian Root, and Passion Flower Extract, allows you to easily melt away the stresses of the day. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>Enjoy this blend in the evening and flood your body with tranquility so you’re ready to enjoy a deep, restorative sleep every night.  </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6127526609046</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>2DD-CHILL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6127517466774</id>
+    <published>2021-02-02T20:58:39-05:00</published>
+    <updated>2021-02-02T20:58:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/focus-performance-triple"/>
+    <title>Focus Performance Triple</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/focus-new_0fa2db4d-7272-4b2f-a0a2-38181ff9f677.jpg?v=1612317522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            149.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>The brain fuel you need to perform at your best.</strong> This blend combines the cognitive boosting power of Lion’s Mane with sustained energy from Cordyceps to help you unlock your peak mental performance each day. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">The functional mushrooms in FOCUS PERFORMANCE are supported by Ashwagandha and Ginkgo Biloba to provide increased cognitive enhancement and a mood-stabilizing effect. The result is improved working memory, expanded creativity, and complete support for your brain’s neurological functioning. On top of all that, Lion’s Mane has proven neuroprotective benefits. Your mind will thank you later… </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>Put your head down, get into that elusive flow state (aka “the zone”), and get sh*t done.   </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6127517466774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.84</s:price>
+      <s:sku>3CC-FOCUS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6127516680342</id>
+    <published>2021-02-02T20:57:53-05:00</published>
+    <updated>2021-02-02T20:57:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/focus-performance-double"/>
+    <title>Focus Performance Double</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/focus-new_8344f7fb-c2b2-4a2f-a43e-6fbdf1b489af.jpg?v=1612317476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>The brain fuel you need to perform at your best.</strong> This blend combines the cognitive boosting power of Lion’s Mane with sustained energy from Cordyceps to help you unlock your peak mental performance each day. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">The functional mushrooms in FOCUS PERFORMANCE are supported by Ashwagandha and Ginkgo Biloba to provide increased cognitive enhancement and a mood-stabilizing effect. The result is improved working memory, expanded creativity, and complete support for your brain’s neurological functioning. On top of all that, Lion’s Mane has proven neuroprotective benefits. Your mind will thank you later… </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>Put your head down, get into that elusive flow state (aka “the zone”), and get sh*t done.   </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6127516680342</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.90</s:price>
+      <s:sku>3BB-FOCUS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6127515336854</id>
+    <published>2021-02-02T20:57:07-05:00</published>
+    <updated>2021-02-02T20:57:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/energy-performance-triple"/>
+    <title>Energy Performance Triple</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/energy-new_e69e8aa3-9aba-4525-a496-6ab8b2a19e6c.jpg?v=1612317429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            149.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Need to smash that tough deadline at work? Crush that exam? Hit a new PR at the gym?</strong> This energy blend combines the power of functional mushrooms with natural energy enhancers to keep you running at peak performance –– even on your toughest days. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">This potent formula is centered around the Cordyceps mushroom, which has a history that spans millennia across ancient Chinese and Tibetan cultures. Cordyceps is revered as a treatment for many illnesses, along with providing a substantial energy boost for people trekking through the Himalayas. With its scientifically proven ability to help the lungs absorb oxygen more efficiently at the cellular level, this potent mushroom will provide you with increased endurance and energy whenever you need it.    </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6127515336854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.84</s:price>
+      <s:sku>4CC-ENERGY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6127491186838</id>
+    <published>2021-02-02T20:40:19-05:00</published>
+    <updated>2021-02-02T20:40:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/energy-performance-double"/>
+    <title>Energy Performance Double</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/energy-new_59075686-dd17-4253-8ad7-13a800e4c987.jpg?v=1612316421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Need to smash that tough deadline at work? Crush that exam? Hit a new PR at the gym?</strong> This energy blend combines the power of functional mushrooms with natural energy enhancers to keep you running at peak performance –– even on your toughest days. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">This potent formula is centered around the Cordyceps mushroom, which has a history that spans millennia across ancient Chinese and Tibetan cultures. Cordyceps is revered as a treatment for many illnesses, along with providing a substantial energy boost for people trekking through the Himalayas. With its scientifically proven ability to help the lungs absorb oxygen more efficiently at the cellular level, this potent mushroom will provide you with increased endurance and energy whenever you need it.    </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6127491186838</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.90</s:price>
+      <s:sku>4BB-ENERGY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6127483486358</id>
+    <published>2021-02-02T20:34:33-05:00</published>
+    <updated>2021-02-02T20:34:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/chill-out-triple"/>
+    <title>Chill Out Triple</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/relax-new_1cf4de7e-4334-4894-b6de-30d6bf1d741b.jpg?v=1612316077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            149.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Are you looking to take the edge off at the end of a long day?</strong> This calming, anti-stress blend provides exactly what your body and mind needs to slip into that sweet relaxation at the end of the day. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">Reishi –– the Mushroom of Immortality –– is typically used as an adaptogen to help the body process stress and is at the core of this powerful formula. The result is a calming effect that, when combined with potent natural herbs like Chamomile, Lemon Balm, Valerian Root, and Passion Flower Extract, allows you to easily melt away the stresses of the day. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>Enjoy this blend in the evening and flood your body with tranquility so you’re ready to enjoy a deep, restorative sleep every night.  </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6127483486358</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.84</s:price>
+      <s:sku>2CC-CHILL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6127482339478</id>
+    <published>2021-02-02T20:33:40-05:00</published>
+    <updated>2021-02-02T20:33:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/chill-out-double"/>
+    <title>Chill Out Double</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/relax-new_8e070fa8-2199-4eec-9c1b-e487a8786232.jpg?v=1612316024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Are you looking to take the edge off at the end of a long day?</strong> This calming, anti-stress blend provides exactly what your body and mind needs to slip into that sweet relaxation at the end of the day. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">Reishi –– the Mushroom of Immortality –– is typically used as an adaptogen to help the body process stress and is at the core of this powerful formula. The result is a calming effect that, when combined with potent natural herbs like Chamomile, Lemon Balm, Valerian Root, and Passion Flower Extract, allows you to easily melt away the stresses of the day. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>Enjoy this blend in the evening and flood your body with tranquility so you’re ready to enjoy a deep, restorative sleep every night.  </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6127482339478</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.90</s:price>
+      <s:sku>2BB-CHILL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6125797408918</id>
+    <published>2021-02-02T03:54:45-05:00</published>
+    <updated>2021-02-02T03:54:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/protect-defend-double"/>
+    <title>Protect + Defend Double Pack</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/protect-new_86e99072-b7a3-455d-ad07-e03817ba6eb5.jpg?v=1612249980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Consider this a bodyguard for your immune system.</strong> Our bodies are under constant threat from viruses, bacteria, and pathogens looking to infect our cells and wreak havoc. There’s no better way to stop them in their tracks than by fortifying your body’s natural defense system. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">PROTECT + DEFEND is an adaptogenic blend of Turkey Tail, Chaga, Reishi, and Maitake mushrooms designed for supercharged immune function and longevity. Its robust profile of antioxidants, vitamins, and minerals will support your overall health and keep your body’s defense operating at its full capacity. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>You may not live for 1,000 years, but you can certainly thrive for 100. Keep yourself protected every day with this potent defensive blend.   </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6125797408918</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.90</s:price>
+      <s:sku>5BB-PROTECT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6125805731990</id>
+    <published>2021-02-02T02:18:10-05:00</published>
+    <updated>2021-02-02T02:18:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/mikes-mushroom-mix-triple"/>
+    <title>Mike&apos;s Mushroom Mix Triple</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/mikes-new_cfe4ada5-b8dc-46af-972b-95e129615513.jpg?v=1612250295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            149.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>The one that started it all.</strong> Mike’s signature blend brings together ten of the most renowned functional mushrooms into an all-around daily supplement. This formula contains a diverse and robust nutrient profile to maintain balance and harmony in all of your systems within your body. If you’re interested in using functional mushrooms to support your overall health and wellness, this is the supplement for you. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">It’s a potent anti-inflammatory, anti-viral, and immunity booster that’ll keep harmful pathogens in check and keep your body in an optimal state of balance. Our co-founder Mike spent years finding the right mushroom blend for total body health. Then we combined that research with the highest quality mushroom ingredients on the planet to bring you this unique, comprehensive formula. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>Keep your body optimized, healthy, and vibrant with Mike’s powerful everyday blend.  </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6125805731990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.84</s:price>
+      <s:sku>1CC-MIKE</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6125800489110</id>
+    <published>2021-02-02T02:15:16-05:00</published>
+    <updated>2021-02-02T02:15:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/mikes-mushroom-mix-double"/>
+    <title>Mike&apos;s Mushroom Mix Double</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/mikes-new_cd049f16-42b1-41d4-864f-225cf910cec4.jpg?v=1612250121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>The one that started it all.</strong> Mike’s signature blend brings together ten of the most renowned functional mushrooms into an all-around daily supplement. This formula contains a diverse and robust nutrient profile to maintain balance and harmony in all of your systems within your body. If you’re interested in using functional mushrooms to support your overall health and wellness, this is the supplement for you. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">It’s a potent anti-inflammatory, anti-viral, and immunity booster that’ll keep harmful pathogens in check and keep your body in an optimal state of balance. Our co-founder Mike spent years finding the right mushroom blend for total body health. Then we combined that research with the highest quality mushroom ingredients on the planet to bring you this unique, comprehensive formula. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>Keep your body optimized, healthy, and vibrant with Mike’s powerful everyday blend.  </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6125800489110</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.90</s:price>
+      <s:sku>1BB-MIKE</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6125799669910</id>
+    <published>2021-02-02T02:14:36-05:00</published>
+    <updated>2021-02-02T02:14:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/protect-defend-double-triple"/>
+    <title>Protect + Defend Triple</title>
+    <s:type>hidden</s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/protect-new_6f3c046d-712f-4af6-a5fa-1b9f3a89c62e.jpg?v=1612250080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong>hidden<br>
+        <strong>Price: </strong>
+            149.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Consider this a bodyguard for your immune system.</strong> Our bodies are under constant threat from viruses, bacteria, and pathogens looking to infect our cells and wreak havoc. There’s no better way to stop them in their tracks than by fortifying your body’s natural defense system. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">PROTECT + DEFEND is an adaptogenic blend of Turkey Tail, Chaga, Reishi, and Maitake mushrooms designed for supercharged immune function and longevity. Its robust profile of antioxidants, vitamins, and minerals will support your overall health and keep your body’s defense operating at its full capacity. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>You may not live for 1,000 years, but you can certainly thrive for 100. Keep yourself protected every day with this potent defensive blend.   </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packs</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6125799669910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.84</s:price>
+      <s:sku>5CC-PROTECT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/6100943995030</id>
+    <published>2021-01-20T23:32:34-05:00</published>
+    <updated>2021-01-20T23:32:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/upgrade-your-mind-body-soul"/>
+    <title>Ultimate Wellness Bundle</title>
+    <s:type>Custom Bundle</s:type>
+    <s:vendor>SporeBundle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/bundle.png?v=1611203558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SporeBundle<br>
+        <strong>Type: </strong>Custom Bundle<br>
+        <strong>Price: </strong>
+            20.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Build Your Ultimate Wellness Bundle to <strong>Upgrade Your Mind, Body + Soul.<br></strong>Pick two products for <strong>15% off</strong> and <strong>extra 5% off</strong> each additional product!</p><br><br><noscript>Visit <a id="bundle-builder-app--bundle-link" href="/apps/bundles/bundle/63239">bundle page</a> to edit the bundle</noscript></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6100943995030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/6100943995030</id>
+      <title>Inventory</title>
+      <s:price currency="USD">20.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/5834768154774</id>
+    <published>2020-10-16T19:05:17-04:00</published>
+    <updated>2020-10-16T19:05:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/focus-performance-chill-out-bundle-90-day-supply"/>
+    <title>Focus Performance &amp; Chill Out Bundle (90-Day Supply)</title>
+    <s:type></s:type>
+    <s:vendor>Spore Life Sciences</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/Spore-Bundle-SQ-03.jpg?v=1602878649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life Sciences<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global upsell recommendations.</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/5834768154774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>3FOCUS-3CHILL-BUNDLE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/5834763436182</id>
+    <published>2020-10-16T18:59:05-04:00</published>
+    <updated>2020-10-16T18:59:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/focus-performance-chill-out-bundle-60-day-supply"/>
+    <title>Focus Performance &amp; Chill Out Bundle (60-Day Supply)</title>
+    <s:type></s:type>
+    <s:vendor>Spore Life Sciences</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/Spore-Bundle-SQ-02.jpg?v=1602878502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life Sciences<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global upsell recommendations</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/5834763436182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>2FOCUS-2CHILL-BUNDLE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/5834742956182</id>
+    <published>2020-10-16T18:50:17-04:00</published>
+    <updated>2020-10-16T18:50:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/30-day-supply"/>
+    <title>Focus Performance &amp; Chill Out Bundle (30-Day Supply)</title>
+    <s:type></s:type>
+    <s:vendor>Spore Life Sciences</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/Spore-Bundle-SQ-01.jpg?v=1602877687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life Sciences<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global upsell recommendations</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/5834742956182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>1FOCUS-1CHILL-BUNDLE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/5676913787030</id>
+    <published>2020-09-02T14:58:17-04:00</published>
+    <updated>2020-09-02T14:58:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/chill-out"/>
+    <title>Chill Out</title>
+    <s:type></s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/sporeChill.jpg?v=1616703015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Are you looking to take the edge off at the end of a long day?</strong> This calming, anti-stress blend provides exactly what your body and mind needs to slip into that sweet relaxation at the end of the day. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">Reishi –– the Mushroom of Immortality –– is typically used as an adaptogen to help the body process stress and is at the core of this powerful formula. The result is a calming effect that, when combined with potent natural herbs like Chamomile, Lemon Balm, Valerian Root, and Passion Flower Extract, allows you to easily melt away the stresses of the day. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>Enjoy this blend in the evening and flood your body with tranquility so you’re ready to enjoy a deep, restorative sleep every night.  </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global upsell recommendations</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/5676913787030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>2-CHILL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/5676910280854</id>
+    <published>2020-09-02T14:57:24-04:00</published>
+    <updated>2020-09-02T14:57:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/protect-defend"/>
+    <title>Protect + Defend</title>
+    <s:type></s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/sporePD.jpg?v=1616702881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Consider this a bodyguard for your immune system.</strong> Our bodies are under constant threat from viruses, bacteria, and pathogens looking to infect our cells and wreak havoc. There’s no better way to stop them in their tracks than by fortifying your body’s natural defense system. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">PROTECT + DEFEND is an adaptogenic blend of Turkey Tail, Chaga, Reishi, and Maitake mushrooms designed for supercharged immune function and longevity. Its robust profile of antioxidants, vitamins, and minerals will support your overall health and keep your body’s defense operating at its full capacity. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>You may not live for 1,000 years, but you can certainly thrive for 100. Keep yourself protected every day with this potent defensive blend.   </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global upsell recommendations</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/5676910280854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>5A-PROTECT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/5676905660566</id>
+    <published>2020-09-02T14:55:59-04:00</published>
+    <updated>2020-09-02T14:55:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/focus-performance"/>
+    <title>Focus Performance</title>
+    <s:type></s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/sporeFocus.jpg?v=1616702956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>The brain fuel you need to perform at your best.</strong> This blend combines the cognitive boosting power of Lion’s Mane with sustained energy from Cordyceps to help you unlock your peak mental performance each day. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">The functional mushrooms in FOCUS PERFORMANCE are supported by Ashwagandha and Ginkgo Biloba to provide increased cognitive enhancement and a mood-stabilizing effect. The result is improved working memory, expanded creativity, and complete support for your brain’s neurological functioning. On top of all that, Lion’s Mane has proven neuroprotective benefits. Your mind will thank you later… </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><strong>Put your head down, get into that elusive flow state (aka “the zone”), and get sh*t done.   </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global upsell recommendations</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/5676905660566</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>3A-FOCUS</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sporelifesciences.com/products/5676897501334</id>
+    <published>2020-09-02T14:52:41-04:00</published>
+    <updated>2020-09-02T14:52:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sporelifesciences.com/products/energy-performance"/>
+    <title>Energy Performance</title>
+    <s:type></s:type>
+    <s:vendor>Spore Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0450/2247/8486/products/sporeEnergy.jpg?v=1616702984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spore Life<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Need to smash that tough deadline at work? Crush that exam? Hit a new PR at the gym?</strong> This energy blend combines the power of functional mushrooms with natural energy enhancers to keep you running at peak performance –– even on your toughest days. </span></p>
+<p><span data-mce-fragment="1"> </span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">This potent formula is centered around the Cordyceps mushroom, which has a history that spans millennia across ancient Chinese and Tibetan cultures. Cordyceps is revered as a treatment for many illnesses, along with providing a substantial energy boost for people trekking through the Himalayas. With its scientifically proven ability to help the lungs absorb oxygen more efficiently at the cellular level, this potent mushroom will provide you with increased endurance and energy whenever you need it.    </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global upsell recommendations</s:tag>
+    <s:variant>
+      <id>https://sporelifesciences.com/products/5676897501334</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>4A-ENERGY</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>
